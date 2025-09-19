@@ -5,7 +5,7 @@ A proposta é uma pagina online fictícia com sessões de agendas e eventos — 
 
 ## 🔗 Deploy
 
-👉 [vinxyu.github.io/Projeto-Culturama](https://github.com/Vinxyu/Projeto-Culturama)
+👉 [vinxyu.github.io/Projeto-Culturama](https://vinxyu.github.io/Projeto-Culturama/)
 
 ---
 
